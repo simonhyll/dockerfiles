@@ -12,6 +12,6 @@ docker build -f docker/tauri/build.dockerfile -o out .
 
 ## Images
 
-| Image                  | Description                               |
-| :--------------------- | :---------------------------------------- |
-| tauri/build.dockerfile | Builds a Tauri application to the out dir |
+| Image                                            | Description                               |
+| :----------------------------------------------- | :---------------------------------------- |
+| [tauri/build.dockerfile](tauri/build.dockerfile) | Builds a Tauri application to the out dir |
